@@ -1,6 +1,6 @@
 <h1 align="center">Pedro Silva</h1>
 <h3 align="center">Mobile Developer</h3>
-https://imgs.search.brave.com/CJrmTQZBLrYv2QsLjHkS0Xz2Ts2-GGn9FUofN4eyAQs/rs:fit:1200:628:1/g:ce/aHR0cHM6Ly93d3cu/dGVjaGFoZWFkY29y/cC5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjEvMDEvMTF0/cmVuZHNibG9nLTEu/Z2lm.gif
+
 
 
 - I’m currently working on **Digiage**
