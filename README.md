@@ -2,6 +2,8 @@
 
  <a href="https://www.linkedin.com/in/pedro-silva-05a57722b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="(https://imgs.search.brave.com/MCGV5PPaP7pWiSrHCaLj72IdvQE2dLjluAP3ORbF6TI/rs:fit:528:528:1/g:ce/aHR0cHM6Ly9qdXN0/c3RpY2tlcnMuaW4v/d3AtY29udGVudC91/cGxvYWRzLzIwMTkv/MDEvZmx1dHRlci5w/bmc)">
 <!--
 **peesilva/peesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
