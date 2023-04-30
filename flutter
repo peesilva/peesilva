@@ -1,7 +1,4 @@
-main() {
-  runApp(new PerguntaApp());
-}
-
+main() => runApp(new PerguntaApp()); 
 class PerguntaApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
